@@ -28,4 +28,4 @@ Añada la herramienta ntopng descargando el paquete correspondiente. Comente bre
 
 ---
 
-**Nota:** Asegúrese de seguir cuidadosamente cada paso para garantizar una configuración exitosa.
+
